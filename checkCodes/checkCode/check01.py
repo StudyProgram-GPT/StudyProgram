@@ -1,5 +1,6 @@
 import subprocess
-def isuue01():
+
+def issue01():
     cmd = "./a.out"
     result = subprocess.run(cmd, shell=True,capture_output=True,text=True).stdout #実行
     text = 'OK'
