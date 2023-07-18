@@ -17,9 +17,9 @@ def send_file(host, port, issue_number, file_path):
     
 
 
-if __name__ == "__main__":
-    host = 'localhost'
-    port = 12345
-    issue_number = "2"
-    file_path = './testCodeFolder/02/data.c'  # The file to send
-    send_file(host, port, issue_number, file_path)
+# if __name__ == "__main__":
+#     host = 'localhost'
+#     port = 12345
+#     issue_number = "2"
+#     file_path = './data.c'  # The file to send
+#     send_file(host, port, issue_number, file_path)
