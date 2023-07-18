@@ -1,2 +1,4 @@
-checkCode/issue/
-checkCode/__pycache__/
+checkCodes/issue/
+checkCodes/__pycache__/
+*.txt
+checkCodes/issue/02/
